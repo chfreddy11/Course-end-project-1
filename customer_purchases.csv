@@ -1,0 +1,41 @@
+Customer ID,Category,Product,Cost,Profit Margin,Profit
+CUST1001,Electronics,Smartwatch,$650.33,15%,$97.55
+CUST1001,Home Goods,Blender,$677.25,36%,$243.81
+CUST1001,Home Goods,Air Purifier,$524.65,35%,$183.63
+CUST1001,Home Goods,Desk Lamp,$578.57,27%,$156.21
+CUST1002,Clothing,Jacket,$954.01,25%,$238.50
+CUST1002,Clothing,T-Shirt,$1041.57,12%,$124.99
+CUST1002,Home Goods,Desk Lamp,$1218.54,14%,$170.60
+CUST1002,Home Goods,Blender,$1186.24,39%,$462.63
+CUST1003,Clothing,Sneakers,$804.25,21%,$168.89
+CUST1003,Home Goods,Air Purifier,$1231.29,18%,$221.63
+CUST1003,Home Goods,Vacuum,$561.04,18%,$100.99
+CUST1003,Home Goods,Desk Lamp,$53.24,36%,$19.17
+CUST1004,Home Goods,Vacuum,$44.97,32%,$14.39
+CUST1004,Electronics,Headphones,$380.24,24%,$91.26
+CUST1004,Electronics,Laptop,$1249.18,30%,$374.75
+CUST1004,Electronics,Tablet,$1472.29,12%,$176.67
+CUST1005,Clothing,Sweater,$559.11,14%,$78.28
+CUST1005,Clothing,T-Shirt,$797.62,10%,$79.76
+CUST1005,Electronics,Tablet,$920.57,16%,$147.29
+CUST1005,Clothing,Jacket,$61.95,35%,$21.68
+CUST1006,Clothing,Jacket,$289.12,17%,$49.15
+CUST1006,Home Goods,Coffee Maker,$393.22,19%,$74.71
+CUST1006,Clothing,Jeans,$8.70,18%,$1.57
+CUST1006,Electronics,Headphones,$128.48,32%,$41.11
+CUST1007,Home Goods,Coffee Maker,$1174.53,28%,$340.61
+CUST1007,Electronics,Laptop,$1060.34,12%,$127.24
+CUST1007,Clothing,Jeans,$1183.47,35%,$414.21
+CUST1007,Home Goods,Air Purifier,$1127.63,16%,$180.42
+CUST1008,Home Goods,Coffee Maker,$58.87,28%,$17.07
+CUST1008,Home Goods,Blender,$1339.26,16%,$214.28
+CUST1008,Clothing,Sneakers,$92.27,38%,$35.06
+CUST1008,Home Goods,Vacuum,$208.19,16%,$33.31
+CUST1009,Clothing,Sweater,$1135.41,36%,$408.75
+CUST1009,Home Goods,Coffee Maker,$1433.37,33%,$473.01
+CUST1009,Clothing,Jacket,$505.67,21%,$106.19
+CUST1009,Clothing,Sneakers,$463.25,15%,$69.49
+CUST1010,Clothing,T-Shirt,$882.46,23%,$202.97
+CUST1010,Clothing,Jacket,$489.72,13%,$63.66
+CUST1010,Electronics,Tablet,$61.14,14%,$8.56
+CUST1010,Home Goods,Vacuum,$1155.38,27%,$311.95

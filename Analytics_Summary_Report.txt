@@ -1,0 +1,33 @@
+=========================================================
+             BUSINESS SUMMARY ANALYTICS REPORT           
+=========================================================
+
+1. PRODUCT CHANNEL CLASSIFICATIONS
+ - Active Categories: Clothing, Electronics, Home Goods
+ - Evaluated Unique SKUs: 14 items
+
+2. ACCOUNT ACCOUNT SEGMENTATION SUMMARY
+ - Account: CUST1001 | Revenue: $2,430.80 | Tag: Moderate Buyer
+ - Account: CUST1002 | Revenue: $4,400.36 | Tag: High-Value Buyer
+ - Account: CUST1003 | Revenue: $2,649.82 | Tag: Moderate Buyer
+ - Account: CUST1004 | Revenue: $3,146.68 | Tag: High-Value Buyer
+ - Account: CUST1005 | Revenue: $2,339.25 | Tag: Moderate Buyer
+ - Account: CUST1006 | Revenue: $819.52 | Tag: Low-Value Buyer
+ - Account: CUST1007 | Revenue: $4,545.97 | Tag: High-Value Buyer
+ - Account: CUST1008 | Revenue: $1,698.59 | Tag: Moderate Buyer
+ - Account: CUST1009 | Revenue: $3,537.70 | Tag: High-Value Buyer
+ - Account: CUST1010 | Revenue: $2,588.70 | Tag: Moderate Buyer
+
+3. SECTOR FINANCIAL REVENUE TRACKING
+ - Electronics Total Pipeline Volume: $5,922.57
+ - Home Goods Total Pipeline Volume: $12,966.24
+ - Clothing Total Pipeline Volume: $9,268.58
+
+4. TOP PERFORMING CONSUMERS
+   1. Account ID: CUST1007 (Total Volume: $4,545.97)
+   2. Account ID: CUST1002 (Total Volume: $4,400.36)
+   3. Account ID: CUST1009 (Total Volume: $3,537.70)
+
+5. BEHAVIORAL INTERSECTION METRICS
+ - Diversified Category Shoppers (>1 Category): CUST1001, CUST1002, CUST1003, CUST1004, CUST1005, CUST1006, CUST1007, CUST1008, CUST1009, CUST1010
+ - Core Overlap Shoppers (Electronics AND Clothing): CUST1005, CUST1006, CUST1007, CUST1010
